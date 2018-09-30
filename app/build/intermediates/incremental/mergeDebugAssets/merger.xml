@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":magicindicator"><source path="E:\WorkSpace\AndroidStuido20180831\MagicIndicator\magicindicator\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\assets"/><source path="E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\debug\assets"/></dataSet></merger>

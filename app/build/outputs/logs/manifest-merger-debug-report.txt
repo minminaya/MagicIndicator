@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [:magicindicator] E:\WorkSpace\AndroidStuido20180831\MagicIndicator\magicindicator\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23af0b03885e6a4b36158d881a965bc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f45f0395284a5754a5bb5b05aba448b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\86402cdfa83f68ba837ca5463f91dc3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b4b8b2952d927db0f494cb675dc36180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5caf008e5f9d1c7bdb9da6c7d5cd2220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\58dc0fe68268756a55f01af5dc12db8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cf2b3df0a4260bf47f76fa8e7fd3b03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\484077633b7d4a38fe431536fed639f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cdfda5e72d9e8fe58afe92b83de60cb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45cd428362f06798a8d12931319f1498\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe3715768c0ef8e00599c7dccbc9078c\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:5:5-49:19
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:8:9-40
+activity#net.lucode.hackware.magicindicatordemo.example.ExampleMainActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:10:9-15:20
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:10:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:13:27-74
+activity#net.lucode.hackware.magicindicatordemo.example.ScrollableTabExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:17:9-19:54
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:18:13-65
+activity#net.lucode.hackware.magicindicatordemo.example.FixedTabExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:21:9-23:49
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:22:13-60
+activity#net.lucode.hackware.magicindicatordemo.example.DynamicTabExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:25:9-27:51
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:26:13-62
+activity#net.lucode.hackware.magicindicatordemo.example.NoTabOnlyIndicatorExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:29:9-31:61
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:31:13-58
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:30:13-70
+activity#net.lucode.hackware.magicindicatordemo.example.FragmentContainerExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:33:9-35:68
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:35:13-65
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:34:13-69
+activity#net.lucode.hackware.magicindicatordemo.example.BadgeTabExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:37:9-39:59
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:38:13-60
+activity#net.lucode.hackware.magicindicatordemo.example.CustomNavigatorExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:41:9-43:56
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:43:13-53
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:42:13-67
+activity#net.lucode.hackware.magicindicatordemo.example.LoadCustomLayoutExampleActivity
+ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:45:9-47:62
+	android:label
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:47:13-59
+	android:name
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml:46:13-68
+uses-sdk
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+MERGED from [:magicindicator] E:\WorkSpace\AndroidStuido20180831\MagicIndicator\magicindicator\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:magicindicator] E:\WorkSpace\AndroidStuido20180831\MagicIndicator\magicindicator\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23af0b03885e6a4b36158d881a965bc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23af0b03885e6a4b36158d881a965bc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f45f0395284a5754a5bb5b05aba448b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f45f0395284a5754a5bb5b05aba448b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\86402cdfa83f68ba837ca5463f91dc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\86402cdfa83f68ba837ca5463f91dc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b4b8b2952d927db0f494cb675dc36180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b4b8b2952d927db0f494cb675dc36180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5caf008e5f9d1c7bdb9da6c7d5cd2220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5caf008e5f9d1c7bdb9da6c7d5cd2220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\58dc0fe68268756a55f01af5dc12db8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\58dc0fe68268756a55f01af5dc12db8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cf2b3df0a4260bf47f76fa8e7fd3b03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cf2b3df0a4260bf47f76fa8e7fd3b03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\484077633b7d4a38fe431536fed639f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\484077633b7d4a38fe431536fed639f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cdfda5e72d9e8fe58afe92b83de60cb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cdfda5e72d9e8fe58afe92b83de60cb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45cd428362f06798a8d12931319f1498\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45cd428362f06798a8d12931319f1498\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe3715768c0ef8e00599c7dccbc9078c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe3715768c0ef8e00599c7dccbc9078c\AndroidManifest.xml:20:5-44
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\AndroidStuido20180831\MagicIndicator\app\src\main\AndroidManifest.xml
